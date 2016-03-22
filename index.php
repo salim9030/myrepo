@@ -1,1 +1,1 @@
-<?php echo "Welcome to GitHub";
+<?php echo "Welcome to GitHub Feature branch";
